@@ -24,7 +24,7 @@ html, body {
 	left:0;
 	right:0;
 	margin: 36px 36px 0px 36px;
-	border-bottom: 1.5px solid black;
+	/*border-bottom: 1.5px solid black;*/
 }
 
 #text {
